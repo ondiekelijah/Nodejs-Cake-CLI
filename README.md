@@ -1,4 +1,4 @@
-# Palatial Cakes CLI  application
+# Cakes CLI  application
 
 Node JS Command line application with Commander.js
 
