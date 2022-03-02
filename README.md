@@ -1,5 +1,7 @@
 # Cakes CLI  application
+
 [![CircleCI](https://circleci.com/gh/Dev-Elie/Nodejs-Cake-CLI/tree/main.svg?style=svg)](https://circleci.com/gh/Dev-Elie/Nodejs-Cake-CLI/tree/main)
+
 Node JS Command line application with Commander.js
 
 ## Install Dependencies
