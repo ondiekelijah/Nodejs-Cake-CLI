@@ -69,5 +69,3 @@ describe('Order different types of cakes', () => {
   })
 
 });
-
-
